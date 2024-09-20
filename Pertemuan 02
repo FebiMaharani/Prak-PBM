@@ -1,1 +1,4 @@
-program pertama dalam kotlin
+fun main() {
+    println("Hello, Febii!!!")
+    println("Today is sunny")
+}
